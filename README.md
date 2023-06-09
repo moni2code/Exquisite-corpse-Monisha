@@ -1,5 +1,5 @@
 # Exquisite-corpse-Monisha
-## This is a story written by Monish and her friends. Enjoy!
+## This is a story written by Monisha and her friends. Enjoy!
 
 
 This repo is made to fulfill training exercise on Git and GitHub
