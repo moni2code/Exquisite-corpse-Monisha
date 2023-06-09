@@ -7,4 +7,4 @@ First, open the collaboration branch Just write your name and tell us the most i
 
 My name is Daniel and this my edit to Monisha's Exquisite Corpse project.
 
-
+Here is another pull request, but this time it's from George! This really is an exquisite project.
